@@ -16,7 +16,7 @@ This implementation explores the core VPN framework for generating class-specifi
 - Joint training pipeline for base model and VPN generator
 - Visualization tools for noise patterns and variance heatmaps
 
-## 🧩 
+## 🧩 Discussion
 
 I implemented the whole framework but it didn't work well, and I speculate on the following reasons: 1 parameter unknown
 
