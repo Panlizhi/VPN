@@ -24,4 +24,5 @@ I implemented the whole framework but it didn't work well, and I speculate on th
 - **Visualization methods** of noise patterns and variance heatmaps
 
 
-I'm uploading some of my implementations and expect to get your discussion.
+I'm uploading some of my implementations [code](https://github.com/Panlizhi/VPN/blob/main/Variational%20Positive-incentive%20Noise.ipynb) and expect to get your discussion.
+<img src="./airplane_grid_25.png" alt="The result of my implementations" style="display: block; margin: 0 auto; width: 40%;" />
