@@ -1,4 +1,4 @@
-####**Variational Positive-incentive Noise: How Noise Benefits Models**  
+#### **Variational Positive-incentive Noise: How Noise Benefits Models**  
 
 This repository contains an **unofficial implementation** of the Variational Pi-Noise (VPN) method described in the paper:
 
