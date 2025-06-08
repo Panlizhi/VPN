@@ -18,7 +18,7 @@ This implementation explores the core VPN framework for generating class-specifi
 
 ## 🧩 Discussion
 
-I implemented the whole framework but it didn't work well, and I speculate on the following reasons: 1 parameter unknown
+I implemented the whole framework but it didn't work well, and I speculate on the following reasons: 
 
 - **Noise constraints parameteris unknown** (C1, C2 in original paper)
 - **Visualization methods** of noise patterns and variance heatmaps
